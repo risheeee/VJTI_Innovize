@@ -13,13 +13,11 @@ The model was trained and evaluated rigorously, achieving **99.83% accuracy** on
 
 ### Model Accuracy
 
-
-![Model Architecture](path/to/model_architecture.png)
+![Model Accuracy](images/accuracy.png)
 
 ### Decision Graph
-(Add an image of accuracy/loss graph here)
 
-![Performance Graph](path/to/performance_graph.png)
+![Decision Graph](images/decision_boundary.png)
 
 
 ## Acknowledgments
